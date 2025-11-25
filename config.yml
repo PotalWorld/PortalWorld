@@ -6,7 +6,7 @@
 # BOT INFORMATION
 Version: "1.8.0" # Don't change this!
 BotToken: "" # If you need help getting your BotToken please open a ticket here: http://discord.drakodevelopment.net
-mongoURI: "mongodb+srv://smirnoviluxa2005_db_user:<setasu58>@cluster0.lp37nz4.mongodb.net/"
+mongoURI: "mongodb+srv://smirnoviluxa2005_db_user:<OY6mATbv25AzYomj>@cluster0.lp37nz4.mongodb.net/"
 GuildID: "1387145057739739279" # This is your server's ID, Right click on your server icon and copy ID
 BotName: "PortalWorld Staff"
 LogCommands: false
@@ -1717,3 +1717,4 @@ Store:
     - "Boosters"
 
     - "Items"
+
